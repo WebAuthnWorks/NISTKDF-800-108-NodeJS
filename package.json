@@ -1,0 +1,20 @@
+{
+  "name": "nistkdf-800-108-nodejs",
+  "version": "0.1.0",
+  "description": "NIST SP800-108 KDFs implementations. Really useful for FIDO Device Onboarding",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebAuthnWorks/NISTKDF-800-108-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebAuthnWorks/NISTKDF-800-108-NodeJS/issues"
+  },
+  "homepage": "https://github.com/WebAuthnWorks/NISTKDF-800-108-NodeJS#readme",
+  "type": "module"
+}
