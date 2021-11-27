@@ -1,6 +1,6 @@
 {
   "name": "nistkdf-800-108-nodejs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "NIST SP800-108 KDFs implementations. Really useful for FIDO Device Onboarding",
   "main": "index.mjs",
   "scripts": {
