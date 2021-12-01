@@ -10,8 +10,8 @@ const HashInfo = {
     }
 }
 
-const FDO_KDF_LABEL   = Buffer.from("FIDO-KDF", "utf-8");
-const FDO_KDF_CONTEXT = Buffer.from("AutomaticOnboardTunnel", "utf-8");
+export const FDO_KDF_LABEL   = Buffer.from("FIDO-KDF", "utf-8");
+export const FDO_KDF_CONTEXT = Buffer.from("AutomaticOnboardTunnel", "utf-8");
 
 /**
  * NIST SP800-108 KDF Counter implementation 
